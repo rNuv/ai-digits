@@ -7,6 +7,6 @@ For my Independent Study - AI Class, I decided to interface with the neural netw
 ## Tech 💻
 The UI is done with React and Material-UI. There's a wonderful node module called react-canvas-draw (https://www.npmjs.com/package/react-canvas-draw) that had exactly what I was looking for. It was my first attempt at learning it so I was pretty happy with the results. The Neural Network used is in my other repository (https://github.com/rNuv/Artificial-Neural-Network). I used pickle to store a trained instance of the class. The backend is done with Flask. I made a simple endpoint to handle the request from React, which has the stringified json image data (probably could have handled this better). And I also used material-ui's theme provider to add a light and dark mode. 
 
-## Pictures
+## Pictures 📷
 ![](images/lightmode.png)
 ![](images/darkmode.png)
