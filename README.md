@@ -3,7 +3,7 @@
 ## Description
 For my Independent Study - AI Class, I decided to interface with the neural network library I created in Python through a web application. The application lets you draw a digit and feed that to a trained neural network served by a Flask backend. It attempts to classify what digit you drew. The results were... decent😬 .Turns out passing stringified image data to a backend is harder than it looks. 
 
-## 📷 Pictures
+## Pictures
 <div align="center">
   <img src="images/lightmode.png" width="666" height="383">
 </div>
