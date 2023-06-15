@@ -4,8 +4,15 @@
 For my Independent Study - AI Class, I decided to interface with the neural network library I created in Python through a web application. The application lets you draw a digit and feed that to a trained neural network served by a Flask backend. It attempts to classify what digit you drew. The results were... decent😬 .Turns out passing stringified image data to a backend is harder than it looks. 
 
 ## 📷 Pictures
-![](images/lightmode.png)
-![](images/darkmode.png)
+<div align="center">
+  <img src="images/lightmode.png" width="666" height="383">
+</div>
+<div align="center">
+  <img src="images/darkmode.png" width="666" height="383">
+</div>
+<p align="center">
+  AI Digits in light and dark mode.
+</p>
 
 ## Technologies
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
